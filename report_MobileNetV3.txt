@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+    Glaucoma       0.95      1.00      0.97        70
+Non Glaucoma       1.00      0.94      0.97        70
+
+    accuracy                           0.97       140
+   macro avg       0.97      0.97      0.97       140
+weighted avg       0.97      0.97      0.97       140
